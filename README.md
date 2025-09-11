@@ -22,6 +22,7 @@ For graduate roles, click [here](https://github.com/compclarity/Graduate-Roles-U
 # List
 | Company | Role | Location | Application Link | Date Posted |
 | -------- | -------- | -------- | -------- | -------- |
+| JPMorganChase | Software Engineer Intern | London, Bournemouth, Glasgow | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210653533) | 11 Sep 2025 |
 | The Trade Desk | Software Engineering Intern | London | [Apply](https://careers.thetradedesk.com/jobs/4784540007/2026-london-software-engineering-internship?utm_source=CompClarity) | 22 Aug 2025 |
 | Palantir | FDSE Intern | London | [Apply](https://jobs.lever.co/palantir/599b1907-aba1-4303-837b-66e69a521636?utm_source=CompClarity) | 22 Aug 2025 |
 | Palantir | Software Engineer Intern | London | [Apply](https://jobs.lever.co/palantir/76a60923-bb49-40f5-b061-7c7eb1299602?utm_source=CompClarity) | 22 Aug 2025 |
